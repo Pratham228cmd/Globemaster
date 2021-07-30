@@ -39,12 +39,12 @@ const seedDB = async () => {
             },
             images: [
                 {
-                    url: 'https://res.cloudinary.com/prathamkhandelwal/image/upload/v1611932377/Globetrotter/ahrdcvggexcu5xvplpht.jpg',
-                    filename: 'Globetrotter/ahrdcvggexcu5xvplpht'
+                    url: 'https://res.cloudinary.com/prathamkhandelwal/image/upload/v1611932377/GlobeTrotter/ahrdcvggexcu5xvplpht.jpg',
+                    filename: 'GlobeTrotter/ahrdcvggexcu5xvplpht'
                 },
                 {
-                    url: 'https://res.cloudinary.com/prathamkhandelwal/image/upload/v1611932379/Globetrotter/btbarqvvtteqm8wadfgp.jpg',
-                    filename: 'Globetrotter/btbarqvvtteqm8wadfgp'
+                    url: 'https://res.cloudinary.com/prathamkhandelwal/image/upload/v1611932379/GlobeTrotter/btbarqvvtteqm8wadfgp.jpg',
+                    filename: 'GlobeTrotter/btbarqvvtteqm8wadfgp'
                 }
             ]
         })
